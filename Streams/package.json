@@ -1,0 +1,14 @@
+{
+  "name": "streams",
+  "version": "1.0.0",
+  "description": "this is a little example on how to use Streams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Giusepperr",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^10.4.1"
+  }
+}
