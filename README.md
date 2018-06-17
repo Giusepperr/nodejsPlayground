@@ -18,7 +18,6 @@ a mention from were the resources were studied/taken will be set in the readme o
 * Express
 * RESTful api
 * Scaling application
-* Packaging
 
 ## License
 
